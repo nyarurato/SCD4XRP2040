@@ -3,6 +3,7 @@
 CO2センサーSCD4X（ここではSCD41）モジュールをRP2040 Zeroで動かすプロジェクト。
 結果はデスクトップウィジェットとして表示
 
+![](docs/image.jpg)
 ![](docs/image1.png)
 
 ## 概要
